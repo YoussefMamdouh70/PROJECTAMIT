@@ -1,0 +1,1118 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+                              ./Keypad_program.o (__do_copy_data)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+                              ./ADC_program.o (__do_clear_bss)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+                              ./LCD_program.o (__umulhisi3)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+                              ./UART_program.o (__udivdi3)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o) (__udivmod64)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+                              ./UART_program.o (__ashldi3)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./Keypad_program.o (__ltsf2)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              ./Keypad_program.o (__fixunssfsi)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              ./Keypad_program.o (__floatunsisf)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              ./Keypad_program.o (__gtsf2)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./Keypad_program.o (__mulsf3)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD ./ADC_program.o
+LOAD ./DIO_program.o
+LOAD ./Delay_program.o
+LOAD ./I2C_program.o
+LOAD ./ICU_program.o
+LOAD ./INT_program.o
+LOAD ./Keypad_program.o
+LOAD ./LCD_program.o
+LOAD ./LED_program.o
+LOAD ./PWM_software_program.o
+LOAD ./SPI_program.o
+LOAD ./S_SEGMENT.o
+LOAD ./TIMER_program.o
+LOAD ./UART_program.o
+LOAD ./assingment.o
+START GROUP
+LOAD c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a
+LOAD c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x55ce
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000060       0x16 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000060                __do_copy_data
+ .init4         0x0000000000000076       0x10 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000000000000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000086        0x8 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000008e        0x4 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x000000000000008e                __bad_interrupt
+                0x000000000000008e                __vector_6
+                0x000000000000008e                __vector_11
+                0x000000000000008e                __vector_17
+                0x000000000000008e                __vector_19
+                0x000000000000008e                __vector_7
+                0x000000000000008e                __vector_5
+                0x000000000000008e                __vector_4
+                0x000000000000008e                __vector_9
+                0x000000000000008e                __vector_15
+                0x000000000000008e                __vector_8
+                0x000000000000008e                __vector_18
+                0x000000000000008e                __vector_20
+ .text          0x0000000000000092        0x0 ./ADC_program.o
+ .text          0x0000000000000092        0x0 ./DIO_program.o
+ .text          0x0000000000000092        0x0 ./Delay_program.o
+ .text          0x0000000000000092        0x0 ./I2C_program.o
+ .text          0x0000000000000092        0x0 ./ICU_program.o
+ .text          0x0000000000000092        0x0 ./INT_program.o
+ .text          0x0000000000000092        0x0 ./Keypad_program.o
+ .text          0x0000000000000092        0x0 ./LCD_program.o
+ .text          0x0000000000000092        0x0 ./LED_program.o
+ .text          0x0000000000000092        0x0 ./PWM_software_program.o
+ .text          0x0000000000000092        0x0 ./SPI_program.o
+ .text          0x0000000000000092        0x0 ./S_SEGMENT.o
+ .text          0x0000000000000092        0x0 ./TIMER_program.o
+ .text          0x0000000000000092        0x0 ./UART_program.o
+ .text          0x0000000000000092        0x0 ./assingment.o
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x0000000000000092        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000000000000092                . = ALIGN (0x2)
+ *(.text.*)
+ .text.MCAL_ADC_Init
+                0x0000000000000092      0x226 ./ADC_program.o
+                0x0000000000000092                MCAL_ADC_Init
+ .text.MCAL_ADC_StartCoversionBusyWait
+                0x00000000000002b8      0x12a ./ADC_program.o
+                0x00000000000002b8                MCAL_ADC_StartCoversionBusyWait
+ .text.MCAL_ADC_StartCoversionSetCallBackISR
+                0x00000000000003e2       0x70 ./ADC_program.o
+                0x00000000000003e2                MCAL_ADC_StartCoversionSetCallBackISR
+ .text.__vector_16
+                0x0000000000000452       0xe4 ./ADC_program.o
+                0x0000000000000452                __vector_16
+ .text.MCAL_DIO_u8SetPinDir
+                0x0000000000000536      0x17c ./DIO_program.o
+                0x0000000000000536                MCAL_DIO_u8SetPinDir
+ .text.MCAL_DIO_u8SetPortDir
+                0x00000000000006b2       0x7e ./DIO_program.o
+                0x00000000000006b2                MCAL_DIO_u8SetPortDir
+ .text.MCAL_DIO_u8SetPinValue
+                0x0000000000000730      0x17c ./DIO_program.o
+                0x0000000000000730                MCAL_DIO_u8SetPinValue
+ .text.MCAL_DIO_u8SetPortValue
+                0x00000000000008ac       0x7e ./DIO_program.o
+                0x00000000000008ac                MCAL_DIO_u8SetPortValue
+ .text.MCAL_DIO_u8GetPinValue
+                0x000000000000092a      0x110 ./DIO_program.o
+                0x000000000000092a                MCAL_DIO_u8GetPinValue
+ .text.MCAL_DIO_u8GetPortValue
+                0x0000000000000a3a       0x9a ./DIO_program.o
+                0x0000000000000a3a                MCAL_DIO_u8GetPortValue
+ .text.MCAL_DIO_u8SetPinInputType
+                0x0000000000000ad4      0x17c ./DIO_program.o
+                0x0000000000000ad4                MCAL_DIO_u8SetPinInputType
+ .text.MCAL_DIO_u8SetPortInputType
+                0x0000000000000c50       0x7e ./DIO_program.o
+                0x0000000000000c50                MCAL_DIO_u8SetPortInputType
+ .text.HAL_DelayInit
+                0x0000000000000cce       0x3c ./Delay_program.o
+                0x0000000000000cce                HAL_DelayInit
+ .text.HAL_DelayBusyWait_ms
+                0x0000000000000d0a       0x78 ./Delay_program.o
+                0x0000000000000d0a                HAL_DelayBusyWait_ms
+ .text.MCAL_I2CMASTER_InitMaster
+                0x0000000000000d82       0x44 ./I2C_program.o
+                0x0000000000000d82                MCAL_I2CMASTER_InitMaster
+ .text.MCAL_I2CMASTER_StartCondition
+                0x0000000000000dc6       0x64 ./I2C_program.o
+                0x0000000000000dc6                MCAL_I2CMASTER_StartCondition
+ .text.MCAL_I2CMASTER_RepeatedStartcondition
+                0x0000000000000e2a       0x64 ./I2C_program.o
+                0x0000000000000e2a                MCAL_I2CMASTER_RepeatedStartcondition
+ .text.MCAL_I2CMASTER_StopCondition
+                0x0000000000000e8e       0x64 ./I2C_program.o
+                0x0000000000000e8e                MCAL_I2CMASTER_StopCondition
+ .text.MCAL_I2CMASTER_SlaveAddressRead
+                0x0000000000000ef2       0x80 ./I2C_program.o
+                0x0000000000000ef2                MCAL_I2CMASTER_SlaveAddressRead
+ .text.MCAL_I2CMASTER_SlaveAddressWrite
+                0x0000000000000f72       0x64 ./I2C_program.o
+                0x0000000000000f72                MCAL_I2CMASTER_SlaveAddressWrite
+ .text.MCAL_I2CSLAVE_InitSlave
+                0x0000000000000fd6       0x22 ./I2C_program.o
+                0x0000000000000fd6                MCAL_I2CSLAVE_InitSlave
+ .text.TWI_match_write_slave
+                0x0000000000000ff8       0x38 ./I2C_program.o
+                0x0000000000000ff8                TWI_match_write_slave
+ .text.TWI_match_read_slave
+                0x0000000000001030       0x38 ./I2C_program.o
+                0x0000000000001030                TWI_match_read_slave
+ .text.I2C_Read
+                0x0000000000001068       0x60 ./I2C_program.o
+                0x0000000000001068                I2C_Read
+ .text.I2C_ReadSlave
+                0x00000000000010c8       0x60 ./I2C_program.o
+                0x00000000000010c8                I2C_ReadSlave
+ .text.I2c_Write
+                0x0000000000001128       0x62 ./I2C_program.o
+                0x0000000000001128                I2c_Write
+ .text.I2C_ACKEnable
+                0x000000000000118a       0x40 ./I2C_program.o
+                0x000000000000118a                I2C_ACKEnable
+ .text.HAL_ICU_voidinit
+                0x00000000000011ca       0x60 ./ICU_program.o
+                0x00000000000011ca                HAL_ICU_voidinit
+ .text.HAL_ICU_voidStartOnce
+                0x000000000000122a       0x44 ./ICU_program.o
+                0x000000000000122a                HAL_ICU_voidStartOnce
+ .text.ICU_Function
+                0x000000000000126e       0xca ./ICU_program.o
+ .text.MCAL_EXTINT_u8Init
+                0x0000000000001338      0x274 ./INT_program.o
+                0x0000000000001338                MCAL_EXTINT_u8Init
+ .text.MCAL_EXTINT_u8Disable
+                0x00000000000015ac       0x78 ./INT_program.o
+                0x00000000000015ac                MCAL_EXTINT_u8Disable
+ .text.MCAL_EXTINT_u8LevelDetection
+                0x0000000000001624      0x1e6 ./INT_program.o
+                0x0000000000001624                MCAL_EXTINT_u8LevelDetection
+ .text.MCAL_EXTINT_SetCallBack
+                0x000000000000180a       0x70 ./INT_program.o
+                0x000000000000180a                MCAL_EXTINT_SetCallBack
+ .text.__vector_1
+                0x000000000000187a       0x6a ./INT_program.o
+                0x000000000000187a                __vector_1
+ .text.__vector_2
+                0x00000000000018e4       0x6a ./INT_program.o
+                0x00000000000018e4                __vector_2
+ .text.__vector_3
+                0x000000000000194e       0x6a ./INT_program.o
+                0x000000000000194e                __vector_3
+ .text.HAL_KEYPAD_voidInit
+                0x00000000000019b8       0x6a ./Keypad_program.o
+                0x00000000000019b8                HAL_KEYPAD_voidInit
+ .text.HAL_KEYPAD_voidGetKeyOnce
+                0x0000000000001a22       0xbe ./Keypad_program.o
+                0x0000000000001a22                HAL_KEYPAD_voidGetKeyOnce
+ .text.HAL_KEYPAD_voidGetKeyMultipe
+                0x0000000000001ae0      0x1fe ./Keypad_program.o
+                0x0000000000001ae0                HAL_KEYPAD_voidGetKeyMultipe
+ .text.HAL_LCD_voidWriteCommand
+                0x0000000000001cde      0x5fe ./LCD_program.o
+ .text.HAL_LCD_voidWriteData
+                0x00000000000022dc      0x5fe ./LCD_program.o
+ .text.HAL_LCD_voidInit
+                0x00000000000028da      0x9ee ./LCD_program.o
+                0x00000000000028da                HAL_LCD_voidInit
+ .text.HAL_LCD_voidWriteCharacter
+                0x00000000000032c8       0x1c ./LCD_program.o
+                0x00000000000032c8                HAL_LCD_voidWriteCharacter
+ .text.HAL_LCD_voidWriteString
+                0x00000000000032e4       0x56 ./LCD_program.o
+                0x00000000000032e4                HAL_LCD_voidWriteString
+ .text.HAL_LCD_MoveCursor
+                0x000000000000333a       0x30 ./LCD_program.o
+                0x000000000000333a                HAL_LCD_MoveCursor
+ .text.HAL_LCD_voidClearAll
+                0x000000000000336a       0x16 ./LCD_program.o
+                0x000000000000336a                HAL_LCD_voidClearAll
+ .text.HAL_LCD_voidClearPart
+                0x0000000000003380       0x48 ./LCD_program.o
+                0x0000000000003380                HAL_LCD_voidClearPart
+ .text.HAL_LCD_voidDisplaySetup
+                0x00000000000033c8       0x30 ./LCD_program.o
+                0x00000000000033c8                HAL_LCD_voidDisplaySetup
+ .text.HAL_LCD_voidWriteNumber
+                0x00000000000033f8      0x11e ./LCD_program.o
+                0x00000000000033f8                HAL_LCD_voidWriteNumber
+ .text.HAL_LCD_SpecialChar
+                0x0000000000003516       0x5c ./LCD_program.o
+                0x0000000000003516                HAL_LCD_SpecialChar
+ .text.HAL_LEDInit
+                0x0000000000003572       0x34 ./LED_program.o
+                0x0000000000003572                HAL_LEDInit
+ .text.HAL_LEDSetValue
+                0x00000000000035a6       0x3e ./LED_program.o
+                0x00000000000035a6                HAL_LEDSetValue
+ .text.HAL_PWM_SoftwareInit
+                0x00000000000035e4       0x5c ./PWM_software_program.o
+                0x00000000000035e4                HAL_PWM_SoftwareInit
+ .text.HAL_PWM_SoftwareStart
+                0x0000000000003640      0x4b4 ./PWM_software_program.o
+                0x0000000000003640                HAL_PWM_SoftwareStart
+ .text.HAL_PWM_Generate_Timer0
+                0x0000000000003af4      0x262 ./PWM_software_program.o
+ .text.HAL_PWM_SoftwareStop
+                0x0000000000003d56      0x11c ./PWM_software_program.o
+                0x0000000000003d56                HAL_PWM_SoftwareStop
+ .text.MCAL_SPI_MasterInit
+                0x0000000000003e72      0x140 ./SPI_program.o
+                0x0000000000003e72                MCAL_SPI_MasterInit
+ .text.MCAL_SPI_SlaveInit
+                0x0000000000003fb2       0xa2 ./SPI_program.o
+                0x0000000000003fb2                MCAL_SPI_SlaveInit
+ .text.MCAL_SPI_Master_DataBusyWait
+                0x0000000000004054       0xa0 ./SPI_program.o
+                0x0000000000004054                MCAL_SPI_Master_DataBusyWait
+ .text.MCAL_SPI_Slave_DataBusyWait
+                0x00000000000040f4       0x8c ./SPI_program.o
+                0x00000000000040f4                MCAL_SPI_Slave_DataBusyWait
+ .text.MCAL_SPI_Master_DataCallBack
+                0x0000000000004180       0x84 ./SPI_program.o
+                0x0000000000004180                MCAL_SPI_Master_DataCallBack
+ .text.MCAL_SPI_Slave_DataCallBack
+                0x0000000000004204       0x78 ./SPI_program.o
+                0x0000000000004204                MCAL_SPI_Slave_DataCallBack
+ .text.MCAL_SPI_MasterString
+                0x000000000000427c      0x190 ./SPI_program.o
+                0x000000000000427c                MCAL_SPI_MasterString
+ .text.MCAL_SPI_SlaveString
+                0x000000000000440c       0x6c ./SPI_program.o
+                0x000000000000440c                MCAL_SPI_SlaveString
+ .text.__vector_12
+                0x0000000000004478       0xf2 ./SPI_program.o
+                0x0000000000004478                __vector_12
+ .text.initialize_S_SEGMENT
+                0x000000000000456a       0x56 ./S_SEGMENT.o
+                0x000000000000456a                initialize_S_SEGMENT
+ .text.turn_ON_S_SEGMENT_1
+                0x00000000000045c0       0x1a ./S_SEGMENT.o
+                0x00000000000045c0                turn_ON_S_SEGMENT_1
+ .text.turn_ON_S_SEGMENT_2
+                0x00000000000045da       0x1a ./S_SEGMENT.o
+                0x00000000000045da                turn_ON_S_SEGMENT_2
+ .text.turn_ON_S_SEGMENT_DOT
+                0x00000000000045f4       0x1a ./S_SEGMENT.o
+                0x00000000000045f4                turn_ON_S_SEGMENT_DOT
+ .text.show_ON_S_SEGMENT
+                0x000000000000460e       0x24 ./S_SEGMENT.o
+                0x000000000000460e                show_ON_S_SEGMENT
+ .text.turn_OFF_S_SEGMENT_1
+                0x0000000000004632       0x1a ./S_SEGMENT.o
+                0x0000000000004632                turn_OFF_S_SEGMENT_1
+ .text.turn_OFF_S_SEGMENT_2
+                0x000000000000464c       0x1a ./S_SEGMENT.o
+                0x000000000000464c                turn_OFF_S_SEGMENT_2
+ .text.turn_OFF_S_SEGMENT_DOT
+                0x0000000000004666       0x1a ./S_SEGMENT.o
+                0x0000000000004666                turn_OFF_S_SEGMENT_DOT
+ .text.MCAL_Timer_Init
+                0x0000000000004680       0xda ./TIMER_program.o
+                0x0000000000004680                MCAL_Timer_Init
+ .text.MCAL_Timer_Start
+                0x000000000000475a       0x7c ./TIMER_program.o
+                0x000000000000475a                MCAL_Timer_Start
+ .text.MCAL_Timer_Stop
+                0x00000000000047d6       0x3e ./TIMER_program.o
+                0x00000000000047d6                MCAL_Timer_Stop
+ .text.MCAL_Timer_Reset
+                0x0000000000004814       0x34 ./TIMER_program.o
+                0x0000000000004814                MCAL_Timer_Reset
+ .text.MCAL_Timer_Get_Counter
+                0x0000000000004848       0x46 ./TIMER_program.o
+                0x0000000000004848                MCAL_Timer_Get_Counter
+ .text.MCAL_Timer_Get_TickTime
+                0x000000000000488e       0xa6 ./TIMER_program.o
+                0x000000000000488e                MCAL_Timer_Get_TickTime
+ .text.MCAL_Timer_Get_FlagStatus
+                0x0000000000004934       0x56 ./TIMER_program.o
+                0x0000000000004934                MCAL_Timer_Get_FlagStatus
+ .text.MCAL_Timer_Clear_FlagStatus
+                0x000000000000498a       0x3e ./TIMER_program.o
+                0x000000000000498a                MCAL_Timer_Clear_FlagStatus
+ .text.MCAL_TIMER_SetCallBack
+                0x00000000000049c8       0x50 ./TIMER_program.o
+                0x00000000000049c8                MCAL_TIMER_SetCallBack
+ .text.__vector_10
+                0x0000000000004a18       0x6a ./TIMER_program.o
+                0x0000000000004a18                __vector_10
+ .text.MCAL_UART_init
+                0x0000000000004a82      0x362 ./UART_program.o
+                0x0000000000004a82                MCAL_UART_init
+ .text.MCAL_UART_sendByteBusyWait
+                0x0000000000004de4       0x88 ./UART_program.o
+                0x0000000000004de4                MCAL_UART_sendByteBusyWait
+ .text.MCAL_UART_recieveByteBusyWait
+                0x0000000000004e6c       0xda ./UART_program.o
+                0x0000000000004e6c                MCAL_UART_recieveByteBusyWait
+ .text.MCAL_UART_RecieveCallBack
+                0x0000000000004f46       0x5e ./UART_program.o
+                0x0000000000004f46                MCAL_UART_RecieveCallBack
+ .text.__vector_13
+                0x0000000000004fa4      0x104 ./UART_program.o
+                0x0000000000004fa4                __vector_13
+ .text.MCAL_UART_SendCallBack
+                0x00000000000050a8       0x5e ./UART_program.o
+                0x00000000000050a8                MCAL_UART_SendCallBack
+ .text.__vector_14
+                0x0000000000005106       0x92 ./UART_program.o
+                0x0000000000005106                __vector_14
+ .text.main     0x0000000000005198       0x74 ./assingment.o
+                0x0000000000005198                main
+ .text.libgcc.mul
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x000000000000520c        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x000000000000520c       0x1e c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+                0x000000000000520c                __umulhisi3
+ .text.libgcc.div
+                0x000000000000522a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x000000000000522a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x000000000000522a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x000000000000522a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x000000000000522a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x000000000000522a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x000000000000522a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.div
+                0x000000000000522a       0x1c c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+                0x000000000000522a                __umoddi3
+                0x000000000000522e                __udivdi3
+                0x0000000000005230                __udivdi3_umoddi3
+ .text.libgcc   0x0000000000005246        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x0000000000005246        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x0000000000005246        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x0000000000005246        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x0000000000005246        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x0000000000005246        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.div
+                0x0000000000005246       0xa2 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+                0x0000000000005246                __udivmod64
+ .text.libgcc   0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000000052e8        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.builtins
+                0x00000000000052e8       0x32 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+                0x00000000000052e8                __ashldi3
+ .text.libgcc.fmul
+                0x000000000000531a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x000000000000531a        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .text.avr-libc.fplib
+                0x000000000000531a        0xa c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x000000000000531a                __nesf2
+                0x000000000000531a                __eqsf2
+                0x000000000000531a                __cmpsf2
+                0x000000000000531a                __ltsf2
+                0x000000000000531a                __lesf2
+ .text.avr-libc.fplib
+                0x0000000000005324       0x5e c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x0000000000005324                __fixunssfsi
+ .text.avr-libc.fplib
+                0x0000000000005382       0x7a c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x0000000000005382                __floatunsisf
+                0x0000000000005386                __floatsisf
+ .text.avr-libc.fplib
+                0x00000000000053fc       0x48 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000000000053fc                __fp_cmp
+ .text.avr-libc.fplib
+                0x0000000000005444       0x44 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000000000005444                __fp_split3
+                0x0000000000005454                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000005488        0xe c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000000000005488                __fp_zero
+                0x000000000000548a                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000005496        0xa c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000000000005496                __gesf2
+                0x0000000000005496                __gtsf2
+ .text.avr-libc.fplib
+                0x00000000000054a0        0x8 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000000000054a0                __mulsf3
+ .text.avr-libc.fplib
+                0x00000000000054a8       0xd2 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000000000054c6                __mulsf3x
+                0x00000000000054cc                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x000000000000557a        0xc c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x000000000000557a                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000005586        0x6 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000000000005586                __fp_nan
+ .text.avr-libc.fplib
+                0x000000000000558c        0xe c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000000000000558c                __fp_pscA
+ .text.avr-libc.fplib
+                0x000000000000559a        0xe c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x000000000000559a                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000000000055a8       0x22 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000000000055a8                __fp_round
+                0x00000000000055ca                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000055ca        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+                0x00000000000055ca                _exit
+                0x00000000000055ca                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000055ca        0x4 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00000000000055ce                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x00000000000055ce                _etext = .
+
+.data           0x0000000000800060       0x20 load address 0x00000000000055ce
+                0x0000000000800060                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x0000000000800060        0x0 ./ADC_program.o
+ .data          0x0000000000800060        0x0 ./DIO_program.o
+ .data          0x0000000000800060        0x0 ./Delay_program.o
+ .data          0x0000000000800060        0x0 ./I2C_program.o
+ .data          0x0000000000800060        0x0 ./ICU_program.o
+ .data          0x0000000000800060        0x0 ./INT_program.o
+ .data          0x0000000000800060        0x0 ./Keypad_program.o
+ .data          0x0000000000800060        0x0 ./LCD_program.o
+ .data          0x0000000000800060        0x0 ./LED_program.o
+ .data          0x0000000000800060        0x0 ./PWM_software_program.o
+ .data          0x0000000000800060        0x0 ./SPI_program.o
+ .data          0x0000000000800060        0x0 ./S_SEGMENT.o
+ .data          0x0000000000800060        0x0 ./TIMER_program.o
+ .data          0x0000000000800060        0x0 ./UART_program.o
+ .data          0x0000000000800060        0x0 ./assingment.o
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.data*)
+ .data.Key_Matrix
+                0x0000000000800060       0x10 ./Keypad_program.o
+                0x0000000000800060                Key_Matrix
+ .data.arr_Shapes
+                0x0000000000800070        0x8 ./LCD_program.o
+                0x0000000000800070                arr_Shapes
+ .data.g_MasterMode
+                0x0000000000800078        0x1 ./SPI_program.o
+                0x0000000000800078                g_MasterMode
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0000000000800079        0x6 ./assingment.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800080                . = ALIGN (0x2)
+ *fill*         0x000000000080007f        0x1 
+                0x0000000000800080                _edata = .
+                0x0000000000800080                PROVIDE (__data_end = .)
+
+.bss            0x0000000000800080       0x5e
+                0x0000000000800080                PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x0000000000800080        0x0 ./ADC_program.o
+ .bss           0x0000000000800080        0x0 ./DIO_program.o
+ .bss           0x0000000000800080        0x0 ./Delay_program.o
+ .bss           0x0000000000800080        0x0 ./I2C_program.o
+ .bss           0x0000000000800080        0x0 ./ICU_program.o
+ .bss           0x0000000000800080        0x0 ./INT_program.o
+ .bss           0x0000000000800080        0x0 ./Keypad_program.o
+ .bss           0x0000000000800080        0x0 ./LCD_program.o
+ .bss           0x0000000000800080        0x0 ./LED_program.o
+ .bss           0x0000000000800080        0x0 ./PWM_software_program.o
+ .bss           0x0000000000800080        0x0 ./SPI_program.o
+ .bss           0x0000000000800080        0x0 ./S_SEGMENT.o
+ .bss           0x0000000000800080        0x0 ./TIMER_program.o
+ .bss           0x0000000000800080        0x0 ./UART_program.o
+ .bss           0x0000000000800080        0x0 ./assingment.o
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000800080        0x0 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.bss*)
+ .bss.g_Adjustment
+                0x0000000000800080        0x1 ./ADC_program.o
+                0x0000000000800080                g_Adjustment
+ .bss.g_InitCheck
+                0x0000000000800081        0x1 ./ADC_program.o
+                0x0000000000800081                g_InitCheck
+ .bss.g_InterruptMode
+                0x0000000000800082        0x1 ./ADC_program.o
+                0x0000000000800082                g_InterruptMode
+ .bss.ADC_CallBack
+                0x0000000000800083        0x2 ./ADC_program.o
+                0x0000000000800083                ADC_CallBack
+ .bss.g_u8TimerChannel
+                0x0000000000800085        0x1 ./Delay_program.o
+ .bss.g_IcuState
+                0x0000000000800086        0x1 ./ICU_program.o
+                0x0000000000800086                g_IcuState
+ .bss.g_Repeat  0x0000000000800087        0x1 ./ICU_program.o
+                0x0000000000800087                g_Repeat
+ .bss.g_EXT_No  0x0000000000800088        0x1 ./ICU_program.o
+                0x0000000000800088                g_EXT_No
+ .bss.g_TimerChannel
+                0x0000000000800089        0x1 ./ICU_program.o
+                0x0000000000800089                g_TimerChannel
+ .bss.Call_BackICU
+                0x000000000080008a        0x2 ./ICU_program.o
+                0x000000000080008a                Call_BackICU
+ .bss.g_PtrCallBack_INT0
+                0x000000000080008c        0x2 ./INT_program.o
+                0x000000000080008c                g_PtrCallBack_INT0
+ .bss.g_PtrCallBack_INT1
+                0x000000000080008e        0x2 ./INT_program.o
+                0x000000000080008e                g_PtrCallBack_INT1
+ .bss.g_PtrCallBack_INT2
+                0x0000000000800090        0x2 ./INT_program.o
+                0x0000000000800090                g_PtrCallBack_INT2
+ .bss.g_Initcheck
+                0x0000000000800092        0x1 ./Keypad_program.o
+ .bss.g_Initcheck
+                0x0000000000800093        0x1 ./LED_program.o
+ .bss.g_PWM_PinArr
+                0x0000000000800094       0x38 ./PWM_software_program.o
+                0x0000000000800094                g_PWM_PinArr
+ .bss.g_u16CompareValue
+                0x00000000008000cc        0x2 ./PWM_software_program.o
+ .bss.Local_u8Counter
+                0x00000000008000ce        0x1 ./PWM_software_program.o
+ .bss.Call_Back_Master
+                0x00000000008000cf        0x2 ./SPI_program.o
+ .bss.Call_Back_Slave
+                0x00000000008000d1        0x2 ./SPI_program.o
+ .bss.TIMER0_CallBack
+                0x00000000008000d3        0x2 ./TIMER_program.o
+ .bss.GSA_uint8_Prescaler_Timer
+                0x00000000008000d5        0x3 ./TIMER_program.o
+ .bss.g_FlagMode
+                0x00000000008000d8        0x1 ./UART_program.o
+                0x00000000008000d8                g_FlagMode
+ .bss.g_CharacterSize
+                0x00000000008000d9        0x1 ./UART_program.o
+                0x00000000008000d9                g_CharacterSize
+ .bss.UART_UDR_CallBack
+                0x00000000008000da        0x2 ./UART_program.o
+ .bss.UART_RX_CallBack
+                0x00000000008000dc        0x2 ./UART_program.o
+ *(COMMON)
+                0x00000000008000de                PROVIDE (__bss_end = .)
+                0x00000000000055ce                __data_load_start = LOADADDR (.data)
+                0x00000000000055ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008000de        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x00000000008000de                _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x6864
+ *(.stab)
+ .stab          0x0000000000000000      0x768 ./ADC_program.o
+ .stab          0x0000000000000768      0x99c ./DIO_program.o
+                                        0x9a8 (size before relaxing)
+ .stab          0x0000000000001104      0x1d4 ./Delay_program.o
+                                        0x1e0 (size before relaxing)
+ .stab          0x00000000000012d8      0x600 ./I2C_program.o
+                                        0x60c (size before relaxing)
+ .stab          0x00000000000018d8      0x324 ./ICU_program.o
+                                        0x330 (size before relaxing)
+ .stab          0x0000000000001bfc      0x858 ./INT_program.o
+                                        0x864 (size before relaxing)
+ .stab          0x0000000000002454      0x60c ./Keypad_program.o
+                                        0x618 (size before relaxing)
+ .stab          0x0000000000002a60     0x159c ./LCD_program.o
+                                       0x1644 (size before relaxing)
+ .stab          0x0000000000003ffc      0x18c ./LED_program.o
+                                        0x198 (size before relaxing)
+ .stab          0x0000000000004188      0x804 ./PWM_software_program.o
+                                        0x810 (size before relaxing)
+ .stab          0x000000000000498c      0x8e8 ./SPI_program.o
+                                        0x990 (size before relaxing)
+ .stab          0x0000000000005274      0x21c ./S_SEGMENT.o
+                                        0x228 (size before relaxing)
+ .stab          0x0000000000005490      0x984 ./TIMER_program.o
+                                        0x990 (size before relaxing)
+ .stab          0x0000000000005e14      0x8d0 ./UART_program.o
+                                        0x8dc (size before relaxing)
+ .stab          0x00000000000066e4      0x180 ./assingment.o
+                                        0x210 (size before relaxing)
+
+.stabstr        0x0000000000000000     0x238b
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x238b ./ADC_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x12
+ *(.comment)
+ .comment       0x0000000000000000       0x12 ./ADC_program.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 ./DIO_program.o
+ .comment       0x0000000000000012       0x13 ./Delay_program.o
+ .comment       0x0000000000000012       0x13 ./I2C_program.o
+ .comment       0x0000000000000012       0x13 ./ICU_program.o
+ .comment       0x0000000000000012       0x13 ./INT_program.o
+ .comment       0x0000000000000012       0x13 ./Keypad_program.o
+ .comment       0x0000000000000012       0x13 ./LCD_program.o
+ .comment       0x0000000000000012       0x13 ./LED_program.o
+ .comment       0x0000000000000012       0x13 ./PWM_software_program.o
+ .comment       0x0000000000000012       0x13 ./SPI_program.o
+ .comment       0x0000000000000012       0x13 ./S_SEGMENT.o
+ .comment       0x0000000000000012       0x13 ./TIMER_program.o
+ .comment       0x0000000000000012       0x13 ./UART_program.o
+ .comment       0x0000000000000012       0x13 ./assingment.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xe0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x5f0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x00000000000004e6       0x26 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x000000000000050c       0x26 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x0000000000000532       0x26 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_info    0x0000000000000558       0x26 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_info    0x000000000000057e       0x26 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000000005a4       0x26 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .debug_info    0x00000000000005ca       0x26 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+
+.debug_abbrev   0x0000000000000000      0x52f
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x00000000000004a3       0x14 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000004b7       0x14 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000000004cb       0x14 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000000000004df       0x14 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x00000000000004f3       0x14 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000507       0x14 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .debug_abbrev  0x000000000000051b       0x14 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+
+.debug_line     0x0000000000000000      0x51c
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x000000000000001d       0x61 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x000000000000007e       0x97 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x0000000000000115       0x85 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_line    0x000000000000019a       0xaf c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_line    0x0000000000000249       0xa3 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .debug_line    0x00000000000002ec      0x145 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .debug_line    0x0000000000000431       0xeb c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x1f8
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x199 c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x0000000000000199       0x5f c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_exit.o)
+ .debug_str     0x00000000000001f8       0x5f c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_str     0x00000000000001f8       0x5f c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_clear_bss.o)
+ .debug_str     0x00000000000001f8       0x5f c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_str     0x00000000000001f8       0x5f c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivdi3.o)
+ .debug_str     0x00000000000001f8       0x5f c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_udivmod64.o)
+ .debug_str     0x00000000000001f8       0x5f c:/users/omar/desktop/tools/avr-gcc-10.1.0-x64-windows/bin/../lib/gcc/avr/10.1.0/avr5\libgcc.a(_ashldi3.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(LED.elf elf32-avr)
+LOAD linker stubs
